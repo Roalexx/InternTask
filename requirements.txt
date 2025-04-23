@@ -1,0 +1,4 @@
+Flask
+redis
+rq==1.15.0
+git+https://github.com/michaelbrooks/rq-win.git#egg=rq-win
