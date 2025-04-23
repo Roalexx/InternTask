@@ -6,7 +6,7 @@ KURULUM
 
     1. Projeyi Klonla
         ##bash
-        git clone 
+        git clone git@github.com:Roalexx/InternTask.git
         cd InternTask
 
     2. Virtual Environment (venv) Kur
